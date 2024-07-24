@@ -1,0 +1,267 @@
+body {
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612199012_173-p-fioletovii-fon-mainkraft-231.png);
+  color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img_1 {
+  width: 100%;
+}
+
+#a_own {
+  position: relative;
+  top: 615px;
+  left: 49%;
+  background: red;
+  color: white;
+  text-decoration: none;
+  padding: 15px 30px 15px 30px;
+  border-radius: 14px;
+}
+
+@media (width <= 700px) {
+  #a_own {
+  position: relative;
+  top: 380px;
+  left: 44%;
+  background: red;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  }
+}
+
+@media (width <= 700px) {
+  h1 {
+    font-size: 20px;
+  }
+}
+
+#h2_1 {
+  position: relative;
+  top: 650px;
+  text-align: center;
+}
+
+#h1_own {
+  color: #f77f00;
+}
+
+@media (width <= 700px) {
+  #h2_1 {
+    position: relative;
+    top: 205px;
+    text-align: center;
+    float: left;
+  }
+}
+
+.art_ {
+  background: lightgray;
+  border-radius: 10px;
+  position: relative;
+  top: 680px;
+  width: 300px;
+  padding: 20px 20px 35px 20px
+}
+
+.art_ a {
+  position: relative;
+  text-decoration: none;
+  background: red;
+  color: white;
+  padding: 7px 10px 7px 10px;
+  border-radius: 7px;
+  top: 13px;
+  left: 70px;
+}
+
+.art_ p {
+  position: relative;
+  left: 28px;
+}
+
+.art_ img {
+  border-radius: 7px;
+}
+
+.art_2 {
+  background: lightgray;
+  border-radius: 10px;
+  position: relative;
+  top: 680px;
+  width: 300px;
+  padding: 20px 20px 35px 20px
+}
+
+.art_2 a {
+  position: relative;
+  text-decoration: none;
+  background: red;
+  color: white;
+  padding: 7px 10px 7px 10px;
+  border-radius: 7px;
+  top: 10px;
+  left: 70px;
+}
+
+.art_2 p {
+  position: relative;
+  left: 28px;
+}
+
+.art_2 img {
+  border-radius: 7px;
+}
+
+.art_3 {
+  background: lightgray;
+  border-radius: 10px;
+  position: relative;
+  top: 680px;
+  width: 300px;
+  padding: 20px 20px 35px 20px
+}
+
+.art_3 a {
+  position: relative;
+  text-decoration: none;
+  background: red;
+  color: white;
+  padding: 7px 10px 7px 10px;
+  border-radius: 7px;
+  top: 10px;
+  left: 70px;
+}
+
+.art_3 p {
+  position: relative;
+  left: 28px;
+}
+
+.art_3 img {
+  border-radius: 7px;
+}
+
+
+
+@media (width <= 700px) {
+  .art_ {
+    background: lightgray;
+    border-radius: 10px;
+    position: absolute;
+    top: 260px;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    right: 70px;
+  }
+  }
+}
+
+@media (width <= 700px) {
+  .art_2 {
+    background: lightgray;
+    border-radius: 10px;
+    position: relative;
+    top: 600px;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    margin-left: 60px
+  }
+}
+
+@media (width <= 700px) {
+  .art_3 {
+    background: lightgray;
+    border-radius: 10px;
+    position: absolute;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    margin-top: 310px;
+    left: 60px;
+  }
+}
+
+@media (width <= 700px) {
+.art1 {
+  position: relative;
+  top: 200px;
+}
+
+@media (width <= 700px) {
+.art2 {
+  position: relative;
+  top: 250px;
+  margin-left: 60px
+}
+}
+
+@media (width <= 700px) {
+.art3 {
+  position: relative;
+}
+}
+
+@media (width >= 700px) {
+  .art_ {
+    background: lightgray;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 260px;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+  }
+  }
+}
+
+@media (width >= 700px) {
+  .art_2 {
+    background: lightgray;
+    border-radius: 10px;
+    position: absolute;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    margin-left: 450px;
+  }
+}
+
+@media (width >= 700px) {
+  .art_3 {
+    background: lightgray;
+    border-radius: 10px;
+    position: absolute;
+    width: 300px;
+    padding: 20px 20px 35px 20px;
+    margin-left: 985px;
+  }
+}
+
+@media (width >= 700px) {
+.art1 {
+  position: relative;
+  top: 34px;
+}
+
+@media (width >= 700px) {
+.art2 {
+  position: relative;
+  margin-left: 60px;
+  bottom: 375px;
+}
+}
+
+@media (width >= 700px) {
+.art3 {
+  position: relative;
+  bottom: 374px;
+}
+}
